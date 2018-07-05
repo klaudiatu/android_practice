@@ -1,0 +1,19 @@
+<resources>
+    <!-- Title for the application. [CHAR LIMIT=12] -->
+    <string name="app_name">Indonesian</string>
+
+    <!-- Category name for greetings [CHAR LIMIT=20] -->
+    <string name="category_phrases">Greetings</string>
+
+    <!-- Category name for the vocabulary words for colors [CHAR LIMIT=20] -->
+    <string name="category_colors">Colors</string>
+
+    <!-- Category name for the vocabulary words for places [CHAR LIMIT=20] -->
+    <string name="category_numbers">Places</string>
+
+    <!-- Category name for the vocabulary words for family seasons [CHAR LIMIT=20] -->
+    <string name="category_family">Seasons</string>
+    
+    <!-- Category name for the vocabulary words for family activities [CHAR LIMIT=20] -->
+    <string name="category_family">Activities</string>
+</resources>
