@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <!-- Primary color of the app (shown in the app bar) -->
+    <color name="primary_color">#33691e</color>
+
+    <!-- Primary dark color of the app (shown in the status bar) -->
+    <color name="primary_dark_color">#003d00</color>
+
+    <!-- Background color for app -->
+    <color name="tan_background">#629749</color>
+
+    <!-- Background color for the Greetings category -->
+    <color name="category_greetings">#4fc3f7</color>
+
+    <!-- Background color for the places category -->
+    <color name="category_places">#f06292</color>
+
+    <!-- Background color for the seasons category -->
+    <color name="category_seasons">#ffd54f</color>
+
+    <!-- Background color for the activities category -->
+    <color name="category_activities">#ff8a65</color>
+    
+    <!-- Background color for the activities category -->
+    <color name="category_colors">#90a4ae</color>
+</resources>
