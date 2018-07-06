@@ -3,17 +3,17 @@
     <string name="app_name">Indonesian</string>
 
     <!-- Category name for greetings [CHAR LIMIT=20] -->
-    <string name="category_phrases">Greetings</string>
+    <string name="category_greetings">Greetings</string>
 
     <!-- Category name for the vocabulary words for colors [CHAR LIMIT=20] -->
     <string name="category_colors">Colors</string>
 
     <!-- Category name for the vocabulary words for places [CHAR LIMIT=20] -->
-    <string name="category_numbers">Places</string>
+    <string name="category_places">Places</string>
 
-    <!-- Category name for the vocabulary words for family seasons [CHAR LIMIT=20] -->
-    <string name="category_family">Seasons</string>
+    <!-- Category name for the vocabulary words for seasons [CHAR LIMIT=20] -->
+    <string name="category_seasons">Seasons</string>
     
     <!-- Category name for the vocabulary words for family activities [CHAR LIMIT=20] -->
-    <string name="category_family">Activities</string>
+    <string name="category_activities">Activities</string>
 </resources>
